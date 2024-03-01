@@ -34,4 +34,4 @@ async def pilih_sampah(ctx):
     elif msg.content in sampah_anorganik:
         await ctx.send("Masukan ke sampah anorganik")
 
-bot.run("MTIwMDY2MjE4NjE2MzQ1ODA5OA.G3bq7Q.pICXtdsiDV9_CIW5mpvduKsGO5zd5GiZv9lGtk")
+bot.run("")
